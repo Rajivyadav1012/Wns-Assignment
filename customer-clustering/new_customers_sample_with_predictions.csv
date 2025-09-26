@@ -1,0 +1,6 @@
+Fresh,Milk,Grocery,Frozen,Detergents_Paper,Delicassen,Predicted_Cluster,Confidence,Total_Spending,Segment_Name,Priority
+5000,8000,12000,2000,3000,1000,0,0.898,31000,High-Value Grocery Focused,High Priority
+15000,3000,4000,8000,800,2000,1,0.796,32800,Fresh & Frozen Specialists,Medium Priority
+2000,15000,20000,1000,8000,500,0,0.865,46500,High-Value Grocery Focused,High Priority
+8000,6000,9000,3000,2000,1200,0,0.835,29200,High-Value Grocery Focused,High Priority
+12000,2000,3500,7000,600,1800,1,0.827,26900,Fresh & Frozen Specialists,Medium Priority
