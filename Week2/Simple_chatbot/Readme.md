@@ -1,71 +1,172 @@
-# Gemini Chatbot Interface with Streamlit
+# 🤖 AI Chat Assistant with Groq
 
-## Overview
+A fast AI chat application built with Streamlit and Groq API. Features multiple AI models, conversation management, and a modern UI.
 
-This project is a Streamlit-based chat application that interacts with the Gemini AI model, allowing users to engage in conversations with an artificial intelligence assistant. The application stores chat history, allowing users to revisit and continue previous conversations.
+![Main Interface](screenshots/main-interface.png)
 
-<div align="center"><img src="docs/gemini-chatbot.gif" width="800"></div>
+## ✨ Features
 
-## Getting Started
+- **Lightning Fast Responses** - Powered by Groq API
+- **5 AI Models** - Llama 3.3, Llama 3.1, Mixtral, Gemma
+- **Save & Load Chats** - Manage multiple conversations
+- **Export to JSON** - Download your chat history
+- **Streaming Responses** - Real-time word-by-word display
+- **Customizable Settings** - Temperature, tokens, streaming
 
-### Dependencies
+---
 
-This code uses the following libraries:
+## 🔧 Installation
 
-- `streamlit`: for building the user interface. 
-- `gemini`: for chat  
-- Gemini API key: Get it from [Google AI Studio](https://ai.google.dev/tutorials/setup?hl=tr)
-
-
-### Usage
-
-Follow these steps to set up and run the project:
-
-1. Create a virtual environment:
-```
-python3 -m venv my_env
-source my_env/bin/activate 
-.\my_env\Scripts\activate 
+### 1. Clone Repository
+```bash
+git clone https://github.com/yourusername/groq-ai-chat.git
+cd groq-ai-chat
 ```
 
-2. Install dependencies:
-```
+### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
 ```
 
-3. Run the Streamlit server:
+### 3. Setup API Key
+Create a `.env` file:
 ```
-streamlit run app_chat.py
-```
-
-4. Access the application in your browser at http://localhost:8501.
-
-5. Start chatting with the assistant!
-
-## Repository Structure
-```
-repository/
-├── app_chat.py               # the code and UI integrated together live here
-├── requirements.txt     # the python packages needed to run locally
-├── .streamlit/
-│   └── config.toml      # theme info for the UI
-├── data/                # folder for saved chat messages 
-├── docs/                # preview for github
-
+GROQ_API_KEY=gsk_your_api_key_here
 ```
 
-## How it Works
+### 4. Run Application
+```bash
+streamlit run app.py
+```
 
-The app as follows:
+---
 
-1. The user enters a question in the input field.
+## 🔑 Get Your Free Groq API Key
 
-2. User messages are sent to the Gemini model for processing.
+1. Visit [https://console.groq.com/](https://console.groq.com/)
+2. Sign up (no credit card required)
+3. Go to "API Keys" → "Create API Key"
+4. Copy key and add to `.env` file
 
-3. The user's input, along with the chat history, is used to generate a response.
+**Free Tier:**
+- 30 requests/minute
+- 14,400 requests/day
 
-4. The Gemini model generates a response based on the patterns it learned during training.
+![API Setup](screenshots/api-setup.png)
 
-5. The application saves chat messages and Gemini AI chat history to files for later retrieval.
+---
 
-6. A new chat is created if the user initiates a conversation that hasn't been stored before, or user can go back to past chats.
+## 🎯 Usage
+
+### Basic Chat
+1. Type message in input box
+2. Press Enter to send
+3. AI responds in real-time
+
+![Chat Interface](screenshots/chat-interface.png)
+
+### Model Selection
+Choose from 5 models in sidebar:
+- **Llama 3.3 70B** - Best quality
+- **Llama 3.1 70B** - Fast & smart
+- **Llama 3.1 8B** - Ultra fast
+- **Mixtral 8x7B** - Long context (32k tokens)
+- **Gemma 2 9B** - Balanced
+
+![Model Selection](screenshots/model-selection.png)
+
+### Save & Load Chats
+- **Save Chat** - Store current conversation
+- **New Chat** - Start fresh (auto-saves previous)
+- **Load Chat** - Access saved conversations
+- **Delete** - Remove individual chats
+- **Clear All** - Remove all saved chats
+
+![Saved Chats](screenshots/saved-chats.png)
+
+### Settings
+- **Temperature** (0.0-2.0) - Creativity level
+- **Max Tokens** (256-8000) - Response length
+- **Stream Response** - Toggle word-by-word display
+
+![Settings](screenshots/settings.png)
+
+### Export
+Download conversations as JSON with timestamps.
+
+![Export](screenshots/export.png)
+
+---
+
+## 📊 Statistics
+
+Track your usage in sidebar:
+- Total messages
+- Saved chats
+- API requests
+- Your messages
+
+![Statistics](screenshots/statistics.png)
+
+---
+
+## 🔍 Troubleshooting
+
+### API Key Error
+```
+⚠️ GROQ_API_KEY not found
+```
+**Fix:** Create `.env` file with your API key
+
+### Authentication Failed
+```
+❌ Authentication failed
+```
+**Fix:** Verify API key is correct, no extra spaces
+
+### Rate Limit
+```
+⚠️ Rate limit reached
+```
+**Fix:** Wait a moment (30 req/min limit)
+
+---
+
+## 📦 Requirements
+
+```txt
+streamlit>=1.28.0
+groq>=0.4.0
+python-dotenv>=1.0.0
+httpx>=0.24.0
+urllib3>=2.0.0
+```
+
+---
+
+## 📸 More Screenshots
+
+### Full Interface
+![Full Interface](screenshots/full-interface.png)
+
+### Conversation Example
+![Conversation](screenshots/conversation.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile-view.png)
+
+---
+
+## 📝 License
+
+MIT License - Feel free to use and modify
+
+---
+
+## 🤝 Contributing
+
+Issues and pull requests welcome!
+
+---
+
+**Made with ❤️ using Streamlit and Groq**
