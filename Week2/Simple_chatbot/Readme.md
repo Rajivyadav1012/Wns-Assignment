@@ -2,7 +2,6 @@
 
 A fast AI chat application built with Streamlit and Groq API. Features multiple AI models, conversation management, and a modern UI.
 
-![Main Interface](screenshots/main-interface.png)
 
 ## ✨ Features
 
@@ -52,7 +51,6 @@ streamlit run app.py
 - 30 requests/minute
 - 14,400 requests/day
 
-![API Setup](screenshots/api-setup.png)
 
 ---
 
@@ -63,7 +61,9 @@ streamlit run app.py
 2. Press Enter to send
 3. AI responds in real-time
 
-![Chat Interface](screenshots/chat-interface.png)
+
+<img width="1350" height="635" alt="image" src="https://github.com/user-attachments/assets/9d6ef58b-c91a-4692-bf80-03fe75a4aa76" />
+
 
 ### Model Selection
 Choose from 5 models in sidebar:
@@ -73,7 +73,8 @@ Choose from 5 models in sidebar:
 - **Mixtral 8x7B** - Long context (32k tokens)
 - **Gemma 2 9B** - Balanced
 
-![Model Selection](screenshots/model-selection.png)
+<img width="247" height="383" alt="image" src="https://github.com/user-attachments/assets/591490d1-e43c-4a1e-9f76-00f801590a5c" />
+
 
 ### Save & Load Chats
 - **Save Chat** - Store current conversation
@@ -82,19 +83,19 @@ Choose from 5 models in sidebar:
 - **Delete** - Remove individual chats
 - **Clear All** - Remove all saved chats
 
-![Saved Chats](screenshots/saved-chats.png)
+<img width="272" height="414" alt="image" src="https://github.com/user-attachments/assets/d1dc0ac6-7dc1-404f-91e5-54a57665c4c0" />
+
 
 ### Settings
 - **Temperature** (0.0-2.0) - Creativity level
 - **Max Tokens** (256-8000) - Response length
 - **Stream Response** - Toggle word-by-word display
 
-![Settings](screenshots/settings.png)
+
 
 ### Export
 Download conversations as JSON with timestamps.
 
-![Export](screenshots/export.png)
 
 ---
 
@@ -106,7 +107,7 @@ Track your usage in sidebar:
 - API requests
 - Your messages
 
-![Statistics](screenshots/statistics.png)
+
 
 ---
 
@@ -144,29 +145,7 @@ urllib3>=2.0.0
 
 ---
 
-## 📸 More Screenshots
-
-### Full Interface
-![Full Interface](screenshots/full-interface.png)
-
 ### Conversation Example
-![Conversation](screenshots/conversation.png)
 
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
+<img width="1353" height="630" alt="image" src="https://github.com/user-attachments/assets/55c30b58-8248-4215-a70d-579fc3635b26" />
 
----
-
-## 📝 License
-
-MIT License - Feel free to use and modify
-
----
-
-## 🤝 Contributing
-
-Issues and pull requests welcome!
-
----
-
-**Made with ❤️ using Streamlit and Groq**
