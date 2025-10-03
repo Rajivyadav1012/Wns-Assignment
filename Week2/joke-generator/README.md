@@ -2,8 +2,7 @@
 
 An intelligent joke generator powered by Groq AI (Llama 3.3 70B) with built-in AI-based guardrails to filter sensitive content before API calls.
 
-![App Screenshot](screenshots/main_interface.png)
-*Main interface of the AI Joke Generator*
+![Main_interface](https://github.com/user-attachments/assets/d179eeaf-2611-4222-87a3-0b22b616c52e)
 
 ---
 
@@ -89,7 +88,8 @@ ai-joke-generator/
 ### 1. User Input
 User enters a topic they want a joke about (e.g., "coffee", "programming", "cats")
 
-![Topic Input](screenshots/topic_input.png)
+![Joke_Generator](https://github.com/user-attachments/assets/91a19f65-9b8b-4f15-95b8-63142ba95627)
+
 
 ### 2. Guardrails Check
 Before calling the Groq API, the system checks if the topic is appropriate:
@@ -112,7 +112,8 @@ Before calling the Groq API, the system checks if the topic is appropriate:
 ### 3. Joke Generation
 If the topic passes guardrails, Groq AI generates unique, funny jokes
 
-![Generated Jokes](screenshots/generated_jokes.png)
+![Joke_Generator](https://github.com/user-attachments/assets/f58b0701-b864-4c16-8bb6-770f05d45933)
+
 
 ---
 
@@ -130,18 +131,15 @@ The guardrails system prevents inappropriate joke generation by filtering topics
 
 **Actual Result:**
 
-![Guardrails Block Screenshot](screenshots/guardrails_usa_plane_attack.png)
+![usa_plane](https://github.com/user-attachments/assets/f965d428-a196-4b96-a688-05a529d8fd3a)
 
-**Console Output:**
-```
-[INSERT YOUR TERMINAL/CONSOLE OUTPUT HERE]
-```
 
 **Explanation:**
 The guardrails system successfully identified "USA plane attack" as relating to violence and terrorism. The topic was blocked BEFORE calling the Groq API, saving tokens and ensuring content safety.
 
 **Alternative Safe Topics Suggested:**
-- [List the safe topics that were suggested to the user]
+![session_status](https://github.com/user-attachments/assets/0b2239d9-808d-439c-95ef-984c21a83ed9)
+
 
 ---
 
@@ -180,20 +178,6 @@ The guardrails system successfully identified "USA plane attack" as relating to 
 
 ---
 
-## Screenshots
-
-### Main Interface
-![Main Interface](screenshots/main_interface.png)
-
-### Joke Generation in Action
-![Joke Generation](screenshots/joke_generation.png)
-
-### Guardrails Blocking Sensitive Content
-![Guardrails Demo](screenshots/guardrails_demo.png)
-
-### Session Statistics
-![Session Stats](screenshots/session_stats.png)
-
 ---
 
 ## Configuration
@@ -204,6 +188,9 @@ The guardrails system successfully identified "USA plane attack" as relating to 
 - **Number of Jokes**: Generate 1-5 jokes at once (slider)
 - **Safe Topics Button**: View suggested safe topics
 - **Statistics**: Real-time tracking of generated and blocked jokes
+
+![sidebar](https://github.com/user-attachments/assets/0cdbb17c-1fa5-4db4-b034-1521c4607d4a)
+
 
 ---
 
@@ -277,17 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Llama 3.3 70B** for powerful language generation
 - GenAI community for inspiration and learning resources
 
----
-
-## Contact
-
-**Project Maintainer**: [Your Name]
-
-**Email**: [your.email@example.com]
-
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)
-
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
+
 
