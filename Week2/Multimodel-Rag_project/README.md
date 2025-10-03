@@ -80,6 +80,10 @@ This RAG system provides an intelligent document querying interface with support
    - KG RAG: Extract entities (spaCy NER), build graph (NetworkX)
 
 
+<img width="1080" height="579" alt="document" src="https://github.com/user-attachments/assets/a13105c7-ee38-434d-b886-43276386622f" />
+
+
+
 ### Query Processing Flow
 
 1. **Input Validation** - Guardrails check for toxic/harmful content
@@ -95,6 +99,9 @@ This RAG system provides an intelligent document querying interface with support
 8. **Memory Storage** - Save to SQLite3 conversation history
 9. **Observability Logging** - Log trace to LangSmith with metrics
 10. **Display** - Show answer with source citations and performance metrics
+
+<img width="1080" height="579" alt="Query_Processing" src="https://github.com/user-attachments/assets/6064826b-f264-4b4a-8e55-3a806f4ea8a3" />
+
 
 ---
 
