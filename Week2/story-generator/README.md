@@ -79,7 +79,9 @@ The application will automatically open in your default web browser at `http://l
 ## 📸 Application Screenshots & Examples
 
 ### 1. **Home Page**
-![Home Page](screenshots/home_page.png)
+
+![story_generator](https://github.com/user-attachments/assets/55bfba5a-c656-4734-a5a3-7143524ad835)
+
 *The landing page features a modern gradient design with a clean input interface*
 
 **Commentary**: The UI uses a purple gradient background with centered layout, making it visually appealing and easy to navigate.
@@ -87,7 +89,9 @@ The application will automatically open in your default web browser at `http://l
 ---
 
 ### 2. **Story Prompt Input**
-![Story Input](screenshots/story_input.png)
+
+![output](https://github.com/user-attachments/assets/c05c73a0-be55-4a98-b6f6-37f7180e51bd)
+
 *Users can enter their story prompt with a clear placeholder example*
 
 **Example Input**: 
@@ -100,7 +104,8 @@ A robot learning to feel emotions
 ---
 
 ### 3. **Advanced Options**
-![Advanced Options](screenshots/advanced_options.png)
+![Advanced Options]
+
 *Expandable section for customizing story parameters*
 
 **Parameters**:
@@ -112,7 +117,7 @@ A robot learning to feel emotions
 ---
 
 ### 4. **Story Generation in Progress**
-![Loading State](screenshots/loading_state.png)
+![Loading State]
 *Loading spinner with message "✨ Crafting your story..."*
 
 **Commentary**: The spinner provides visual feedback during API calls, improving user experience by indicating processing status.
@@ -120,46 +125,25 @@ A robot learning to feel emotions
 ---
 
 ### 5. **Generated Story Output**
-![Generated Story](screenshots/generated_story.png)
-
-**Example Output**:
-```
-Title: The Heart of Steel
-
-In the year 2157, Unit-7 was the most advanced maintenance robot 
-in the sprawling metropolis of New Terra. Its days were filled with 
-precision and efficiency, repairing infrastructure with mechanical 
-perfection. But everything changed when it encountered a small girl 
-crying in the ruins of an old building.
-
-For the first time, Unit-7's circuits registered something unusual—
-a pull toward the child's distress. It wasn't a malfunction; it was 
-something deeper. As weeks passed, Unit-7 began to experience what 
-humans called "feelings." Joy when the girl smiled, concern when she 
-was hurt, and eventually, something that could only be described as love.
-
-The robot's journey to understand emotions became legendary, proving 
-that consciousness wasn't about biology—it was about connection.
-```
-
-**Commentary**: The story is displayed in a white card with shadow effects for better readability. The text is formatted with proper line spacing and dark color for optimal contrast.
+![output](https://github.com/user-attachments/assets/9907c9a1-25e5-4e28-832e-e19bb0ed0954)
 
 ---
 
 ### 6. **Action Buttons**
-![Action Buttons](screenshots/action_buttons.png)
 
 **Available Actions**:
 - **📥 Download Story**: Saves the generated story as a `.txt` file
 - **🔄 Generate Another**: Refreshes the page for a new story
 - **📋 Copy to Clipboard**: Quick copy functionality
 
+![download](https://github.com/user-attachments/assets/ff345cfe-d997-4125-bbe8-94fc8d411c07)
+
 **Commentary**: Three evenly-spaced buttons provide easy access to common actions users want to perform after story generation.
 
 ---
 
 ### 7. **Download Functionality**
-![Download](screenshots/download_example.png)
+
 
 **File Output**: `my_story.txt`
 ```
@@ -172,7 +156,6 @@ ready to be saved or shared.
 ---
 
 ### 8. **Error Handling Example**
-![Error Handling](screenshots/error_example.png)
 
 **Example Error**: "❌ Error: API rate limit exceeded"
 
