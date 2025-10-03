@@ -1,0 +1,9 @@
+2025-10-02 19:40:07 - memory_manager - INFO - __init__:40 - Memory initialized for session a96db7a1 (max: 5 messages)
+2025-10-02 19:40:26 - memory_manager - INFO - __init__:40 - Memory initialized for session 74cdf634 (max: 5 messages)
+2025-10-02 19:40:26 - memory_manager - INFO - __init__:241 - RAG with memory initialized
+2025-10-02 19:53:44 - memory_manager - INFO - __init__:40 - Memory initialized for session 76e94724 (max: 5 messages)
+2025-10-02 22:52:52 - memory_manager - INFO - __init__:40 - Memory initialized for session 1eccc7de (max: 5 messages)
+2025-10-02 23:49:43 - memory_manager - INFO - __init__:40 - Memory initialized for session ee788b4d (max: 10 messages)
+2025-10-02 23:49:43 - memory_manager - INFO - __init__:241 - RAG with memory initialized
+2025-10-02 23:54:09 - memory_manager - INFO - __init__:40 - Memory initialized for session a1d8c02e (max: 10 messages)
+2025-10-02 23:54:09 - memory_manager - INFO - __init__:241 - RAG with memory initialized

@@ -1,0 +1,26 @@
+2025-10-02 19:28:59 - web_search - WARNING - __init__:32 - Web search disabled - API key not configured
+2025-10-02 19:35:05 - web_search - INFO - __init__:30 - Web search enabled with Serper API
+2025-10-02 19:35:09 - web_search - INFO - search:84 - Web search returned 3 results in 3.27s
+2025-10-02 19:35:29 - web_search - INFO - __init__:30 - Web search enabled with Serper API
+2025-10-02 19:35:29 - web_search - INFO - __init__:181 - RAG with web search initialized (enabled: True)
+2025-10-02 19:35:30 - web_search - INFO - query:260 - Augmenting with web search...
+2025-10-02 19:35:32 - web_search - INFO - search:84 - Web search returned 3 results in 2.12s
+2025-10-02 19:53:46 - web_search - INFO - __init__:30 - Web search enabled with Serper API
+2025-10-02 19:53:48 - web_search - INFO - search:84 - Web search returned 1 results in 1.65s
+2025-10-02 22:52:55 - web_search - INFO - __init__:30 - Web search enabled with Serper API
+2025-10-02 22:52:56 - web_search - INFO - search:84 - Web search returned 1 results in 1.51s
+2025-10-02 23:40:49 - web_search - INFO - __init__:30 - Web search enabled with Serper API
+2025-10-02 23:40:49 - web_search - INFO - __init__:181 - RAG with web search initialized (enabled: True)
+2025-10-02 23:41:03 - web_search - INFO - query:260 - Augmenting with web search...
+2025-10-02 23:41:12 - web_search - INFO - search:84 - Web search returned 3 results in 9.08s
+2025-10-02 23:41:12 - web_search - ERROR - query:293 - Query with web search failed: 'RAGSelector' object has no attribute 'llm'
+2025-10-02 23:54:11 - web_search - INFO - __init__:30 - Web search enabled with Serper API
+2025-10-02 23:54:11 - web_search - INFO - __init__:181 - RAG with web search initialized (enabled: True)
+2025-10-02 23:54:25 - web_search - INFO - query:260 - Augmenting with web search...
+2025-10-02 23:54:27 - web_search - INFO - search:84 - Web search returned 3 results in 2.31s
+2025-10-02 23:54:27 - web_search - ERROR - query:302 - Query with web search failed: Could not find LLM in wrapped RAG instance
+2025-10-02 23:57:29 - web_search - INFO - __init__:30 - Web search enabled with Serper API
+2025-10-02 23:57:29 - web_search - INFO - __init__:181 - RAG with web search initialized (enabled: True)
+2025-10-02 23:57:48 - web_search - INFO - query:260 - Augmenting with web search...
+2025-10-02 23:57:49 - web_search - INFO - search:84 - Web search returned 3 results in 1.69s
+2025-10-02 23:57:49 - web_search - ERROR - query:302 - Query with web search failed: Could not find LLM in wrapped RAG instance

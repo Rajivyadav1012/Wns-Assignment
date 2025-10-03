@@ -1,0 +1,36 @@
+2025-10-02 18:25:16 - rag_hybrid - INFO - __init__:53 - Initialized Hybrid RAG with Groq
+2025-10-02 18:25:16 - rag_hybrid - INFO - _build_bm25_index:60 - Building BM25 index...
+2025-10-02 19:20:44 - rag_hybrid - INFO - __init__:56 - ✅ Hybrid RAG initialized (semantic: 0.6, keyword: 0.4)
+2025-10-02 19:20:44 - rag_hybrid - INFO - build_bm25_index:65 - 🔨 Building BM25 keyword index...
+2025-10-02 19:20:44 - rag_hybrid - INFO - build_bm25_index:83 - ✅ BM25 index built with 5 documents in 0.00s
+2025-10-02 19:20:44 - rag_hybrid - INFO - query:320 - 🔍 Processing hybrid query: What is this document about?
+2025-10-02 19:20:44 - rag_hybrid - INFO - retrieve:247 - 🔍 Semantic: 5, BM25: 2 results
+2025-10-02 19:20:44 - rag_hybrid - INFO - retrieve:270 - ✅ Hybrid retrieval: 0 documents in 0.02s
+2025-10-02 19:22:13 - rag_hybrid - INFO - __init__:56 - ✅ Hybrid RAG initialized (semantic: 0.5, keyword: 0.5)
+2025-10-02 19:22:13 - rag_hybrid - INFO - build_bm25_index:65 - 🔨 Building BM25 keyword index...
+2025-10-02 19:22:13 - rag_hybrid - INFO - build_bm25_index:83 - ✅ BM25 index built with 5 documents in 0.00s
+2025-10-02 19:22:13 - rag_hybrid - INFO - query:320 - 🔍 Processing hybrid query: What is this about?
+2025-10-02 19:22:13 - rag_hybrid - INFO - retrieve:247 - 🔍 Semantic: 5, BM25: 2 results
+2025-10-02 19:22:13 - rag_hybrid - INFO - retrieve:270 - ✅ Hybrid retrieval: 2 documents in 0.02s
+2025-10-02 19:22:23 - rag_hybrid - INFO - query:371 - ✅ Hybrid query completed in 9.54s
+2025-10-02 19:25:05 - rag_hybrid - INFO - __init__:56 - ✅ Hybrid RAG initialized (semantic: 0.6, keyword: 0.4)
+2025-10-02 19:25:06 - rag_hybrid - INFO - build_bm25_index:65 - 🔨 Building BM25 keyword index...
+2025-10-02 19:25:06 - rag_hybrid - INFO - build_bm25_index:83 - ✅ BM25 index built with 5 documents in 0.00s
+2025-10-02 19:25:06 - rag_hybrid - INFO - query:320 - 🔍 Processing hybrid query: What is this document about?
+2025-10-02 19:25:06 - rag_hybrid - INFO - retrieve:247 - 🔍 Semantic: 5, BM25: 2 results
+2025-10-02 19:25:06 - rag_hybrid - INFO - retrieve:270 - ✅ Hybrid retrieval: 2 documents in 0.02s
+2025-10-02 19:25:40 - rag_hybrid - INFO - query:371 - ✅ Hybrid query completed in 34.13s
+2025-10-02 19:52:57 - rag_hybrid - INFO - __init__:56 - ✅ Hybrid RAG initialized (semantic: 0.5, keyword: 0.5)
+2025-10-02 19:53:01 - rag_hybrid - INFO - build_bm25_index:65 - 🔨 Building BM25 keyword index...
+2025-10-02 19:53:01 - rag_hybrid - INFO - build_bm25_index:83 - ✅ BM25 index built with 6 documents in 0.00s
+2025-10-02 19:53:01 - rag_hybrid - INFO - query:320 - 🔍 Processing hybrid query: What is this about?
+2025-10-02 19:53:01 - rag_hybrid - INFO - retrieve:247 - 🔍 Semantic: 4, BM25: 0 results
+2025-10-02 19:53:01 - rag_hybrid - INFO - retrieve:270 - ✅ Hybrid retrieval: 2 documents in 0.05s
+2025-10-02 19:53:08 - rag_hybrid - INFO - query:371 - ✅ Hybrid query completed in 7.13s
+2025-10-02 22:52:36 - rag_hybrid - INFO - __init__:56 - ✅ Hybrid RAG initialized (semantic: 0.5, keyword: 0.5)
+2025-10-02 22:52:39 - rag_hybrid - INFO - build_bm25_index:65 - 🔨 Building BM25 keyword index...
+2025-10-02 22:52:39 - rag_hybrid - INFO - build_bm25_index:83 - ✅ BM25 index built with 7 documents in 0.00s
+2025-10-02 22:52:39 - rag_hybrid - INFO - query:320 - 🔍 Processing hybrid query: What is this about?
+2025-10-02 22:52:39 - rag_hybrid - INFO - retrieve:247 - 🔍 Semantic: 4, BM25: 4 results
+2025-10-02 22:52:39 - rag_hybrid - INFO - retrieve:270 - ✅ Hybrid retrieval: 2 documents in 0.05s
+2025-10-02 22:52:40 - rag_hybrid - INFO - query:371 - ✅ Hybrid query completed in 0.47s

@@ -1,0 +1,14 @@
+2025-10-03 00:00:22 - llm_providers - INFO - __init__:316 - ✅ Groq provider initialized with model: llama-3.1-8b-instant
+2025-10-03 00:00:32 - llm_providers - INFO - generate:360 - 🚀 Groq response: 41 tokens in 9.13s
+2025-10-03 00:00:46 - llm_providers - INFO - __init__:316 - ✅ Groq provider initialized with model: llama-3.1-8b-instant
+2025-10-03 00:01:32 - llm_providers - INFO - generate:360 - 🚀 Groq response: 310 tokens in 40.83s
+2025-10-03 00:01:32 - llm_providers - INFO - __init__:316 - ✅ Groq provider initialized with model: llama-3.1-8b-instant
+2025-10-03 00:01:49 - llm_providers - INFO - generate:360 - 🚀 Groq response: 270 tokens in 10.22s
+2025-10-03 00:01:51 - llm_providers - INFO - __init__:316 - ✅ Groq provider initialized with model: llama-3.1-8b-instant
+2025-10-03 00:01:59 - llm_providers - INFO - __init__:316 - ✅ Groq provider initialized with model: llama-3.1-8b-instant
+2025-10-03 00:02:20 - llm_providers - INFO - generate:360 - 🚀 Groq response: 308 tokens in 17.64s
+2025-10-03 00:05:25 - llm_providers - INFO - __init__:316 - ✅ Groq provider initialized with model: llama-3.3-70b-versatile
+2025-10-03 00:05:31 - llm_providers - INFO - __init__:316 - ✅ Groq provider initialized with model: llama-3.3-70b-versatile
+2025-10-03 00:08:39 - llm_providers - INFO - generate:360 - 🚀 Groq response: 439 tokens in 1.02s
+2025-10-03 00:20:23 - llm_providers - INFO - generate:360 - 🚀 Groq response: 662 tokens in 1.02s
+2025-10-03 00:24:42 - llm_providers - INFO - generate:360 - 🚀 Groq response: 660 tokens in 0.99s

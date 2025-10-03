@@ -1,0 +1,22 @@
+2025-10-03 00:00:21 - database - INFO - initialize:77 - ✅ Loaded existing FAISS index with 7 vectors
+2025-10-03 00:00:21 - database - INFO - initialize:254 - ✅ SQLite database initialized at data\memory.db
+2025-10-03 00:00:21 - database - INFO - <module>:409 - ✅ All databases initialized successfully
+2025-10-03 00:00:46 - database - INFO - add_documents:116 - ✅ Added 1 embeddings to index
+2025-10-03 00:00:46 - database - INFO - add_document_metadata:349 - 📄 Added metadata for integration_test.txt
+2025-10-03 00:00:51 - database - INFO - search:156 - 🔍 Found 2 results
+2025-10-03 00:01:39 - database - INFO - search:156 - 🔍 Found 8 results
+2025-10-03 00:01:39 - database - INFO - search:156 - 🔍 Found 4 results
+2025-10-03 00:01:59 - database - INFO - search:156 - 🔍 Found 8 results
+2025-10-03 00:02:03 - database - INFO - search:156 - 🔍 Found 2 results
+2025-10-03 00:05:04 - database - INFO - initialize:77 - ✅ Loaded existing FAISS index with 8 vectors
+2025-10-03 00:05:04 - database - INFO - initialize:254 - ✅ SQLite database initialized at data\memory.db
+2025-10-03 00:05:04 - database - INFO - <module>:409 - ✅ All databases initialized successfully
+2025-10-03 00:08:38 - database - INFO - search:156 - 🔍 Found 5 results
+2025-10-03 00:20:00 - database - INFO - add_documents:116 - ✅ Added 1 embeddings to index
+2025-10-03 00:20:00 - database - INFO - add_document_metadata:349 - 📄 Added metadata for rag_definition.txt
+2025-10-03 00:20:22 - database - INFO - search:156 - 🔍 Found 5 results
+2025-10-03 00:22:31 - database - WARNING - delete_documents:188 - ⚠️ FAISS deletion requires rebuilding index - feature pending
+2025-10-03 00:22:31 - database - INFO - delete_document_metadata:383 - 🗑️ Deleted metadata for c50820f9
+2025-10-03 00:22:35 - database - WARNING - delete_documents:188 - ⚠️ FAISS deletion requires rebuilding index - feature pending
+2025-10-03 00:22:35 - database - INFO - delete_document_metadata:383 - 🗑️ Deleted metadata for 980fbf5d
+2025-10-03 00:24:41 - database - INFO - search:156 - 🔍 Found 5 results

@@ -1,0 +1,4 @@
+2025-10-03 00:01:55 - rag_kg - INFO - __init__:51 - ✅ Loaded spaCy model for entity extraction
+2025-10-03 00:01:55 - rag_kg - INFO - __init__:60 - ✅ Knowledge Graph RAG initialized with groq
+2025-10-03 00:01:59 - rag_kg - INFO - build_graph_from_documents:87 - 🔨 Building knowledge graph from documents...
+2025-10-03 00:01:59 - rag_kg - INFO - build_graph_from_documents:145 - ✅ Knowledge graph built: 0 entities, 0 relationships in 0.12s

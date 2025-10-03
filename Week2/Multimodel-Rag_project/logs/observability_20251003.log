@@ -1,0 +1,47 @@
+2025-10-03 00:00:21 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-03 00:00:21 - observability - INFO - log_event:124 - 📊 Event: integration_test
+2025-10-03 00:00:32 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 41 tokens in 9.13s
+2025-10-03 00:00:32 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-03 00:00:46 - observability - INFO - log_document_processing:232 - 📄 Document: integration_test.txt - 1 chunks in 0.11s
+2025-10-03 00:00:46 - observability - INFO - log_event:124 - 📊 Event: document_processing
+2025-10-03 00:00:51 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.07s
+2025-10-03 00:00:51 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-03 00:01:32 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 310 tokens in 40.83s
+2025-10-03 00:01:32 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-03 00:01:39 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Hybrid RAG - 2 results in 0.05s
+2025-10-03 00:01:39 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-03 00:01:49 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 270 tokens in 10.22s
+2025-10-03 00:01:49 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-03 00:02:03 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.03s
+2025-10-03 00:02:03 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-03 00:02:20 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 308 tokens in 17.64s
+2025-10-03 00:02:20 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-03 00:02:22 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-03 00:02:22 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-03 00:05:11 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-03 00:08:37 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-03 00:08:37 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-03 00:08:38 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 5 results in 0.08s
+2025-10-03 00:08:38 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-03 00:08:39 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.3-70b-versatile - 439 tokens in 1.02s
+2025-10-03 00:08:39 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-03 00:08:39 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-03 00:08:39 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-03 00:20:00 - observability - INFO - log_document_processing:232 - 📄 Document: rag_definition.txt - 1 chunks in 0.12s
+2025-10-03 00:20:00 - observability - INFO - log_event:124 - 📊 Event: document_processing
+2025-10-03 00:20:22 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-03 00:20:22 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-03 00:20:22 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 5 results in 0.04s
+2025-10-03 00:20:22 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-03 00:20:23 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.3-70b-versatile - 662 tokens in 1.02s
+2025-10-03 00:20:23 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-03 00:20:23 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-03 00:20:23 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-03 00:24:41 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-03 00:24:41 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-03 00:24:41 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 5 results in 0.04s
+2025-10-03 00:24:41 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-03 00:24:42 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.3-70b-versatile - 660 tokens in 0.99s
+2025-10-03 00:24:42 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-03 00:24:42 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-03 00:24:42 - observability - INFO - log_event:124 - 📊 Event: guardrails_check

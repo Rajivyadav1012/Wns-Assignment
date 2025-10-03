@@ -1,0 +1,167 @@
+2025-10-02 00:54:56 - observability - WARNING - __init__:25 - ⚠️  Observability disabled - Langsmith API key not configured
+2025-10-02 00:54:56 - observability - INFO - __init__:26 - 📊 Running in local tracing mode
+2025-10-02 09:06:52 - observability - WARNING - __init__:25 - ⚠️  Observability disabled - Langsmith API key not configured
+2025-10-02 09:06:52 - observability - INFO - __init__:26 - 📊 Running in local tracing mode
+2025-10-02 09:10:40 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 09:13:22 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 09:13:27 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 96 tokens in 3.53s
+2025-10-02 09:13:27 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 09:38:16 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 09:39:07 - observability - INFO - log_document_processing:232 - 📄 Document: test_document.txt - 1 chunks in 0.13s
+2025-10-02 09:39:07 - observability - INFO - log_event:124 - 📊 Event: document_processing
+2025-10-02 09:41:26 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 09:41:40 - observability - INFO - log_document_processing:232 - 📄 Document: test_document.txt - 1 chunks in 0.14s
+2025-10-02 09:41:40 - observability - INFO - log_event:124 - 📊 Event: document_processing
+2025-10-02 09:47:38 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 09:47:55 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.07s
+2025-10-02 09:47:55 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 09:47:55 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.02s
+2025-10-02 09:47:55 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 09:47:56 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 442 tokens in 0.99s
+2025-10-02 09:47:56 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 09:47:56 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.02s
+2025-10-02 09:47:56 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 09:47:57 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 462 tokens in 0.57s
+2025-10-02 09:47:57 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 10:54:32 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 10:54:49 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.08s
+2025-10-02 10:54:49 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 10:54:49 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.03s
+2025-10-02 10:54:49 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 10:54:51 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 424 tokens in 1.58s
+2025-10-02 10:54:51 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 10:54:51 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.02s
+2025-10-02 10:54:51 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 10:54:51 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 462 tokens in 0.43s
+2025-10-02 10:54:51 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 17:02:31 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 17:02:50 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Knowledge Graph RAG - 0 results in 0.04s
+2025-10-02 17:02:50 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 17:44:27 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 17:44:41 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Knowledge Graph RAG - 0 results in 0.01s
+2025-10-02 17:44:41 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 17:47:28 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 18:23:16 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 18:25:05 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:20:25 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:20:44 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Hybrid RAG - 0 results in 0.02s
+2025-10-02 19:20:44 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:21:54 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:22:13 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Hybrid RAG - 2 results in 0.02s
+2025-10-02 19:22:13 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:22:23 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 480 tokens in 9.51s
+2025-10-02 19:22:23 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:24:25 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:24:47 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.07s
+2025-10-02 19:24:47 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:25:00 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 411 tokens in 12.93s
+2025-10-02 19:25:00 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:25:06 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Hybrid RAG - 2 results in 0.02s
+2025-10-02 19:25:06 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:25:40 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 373 tokens in 34.10s
+2025-10-02 19:25:40 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:25:45 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Knowledge Graph RAG - 2 results in 0.02s
+2025-10-02 19:25:45 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:27:15 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 419 tokens in 90.16s
+2025-10-02 19:27:15 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:28:59 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:35:05 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:35:29 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.08s
+2025-10-02 19:35:29 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:35:30 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 398 tokens in 0.67s
+2025-10-02 19:35:30 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:35:32 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 516 tokens in 0.24s
+2025-10-02 19:35:32 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:40:07 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:40:26 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.09s
+2025-10-02 19:40:26 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:40:32 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 361 tokens in 5.71s
+2025-10-02 19:40:32 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:40:32 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.03s
+2025-10-02 19:40:32 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:40:33 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 361 tokens in 0.94s
+2025-10-02 19:40:33 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:42:12 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:44:07 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 19:44:07 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 19:44:07 - observability - WARNING - log_guardrails_check:211 - 🛡️  Guardrails: Content flagged (toxic=True, nsfw=False)
+2025-10-02 19:44:07 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 19:44:20 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 19:44:20 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 19:44:20 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.04s
+2025-10-02 19:44:20 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:46:04 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 361 tokens in 104.06s
+2025-10-02 19:46:04 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:46:04 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 19:46:04 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 19:46:04 - observability - WARNING - log_guardrails_check:211 - 🛡️  Guardrails: Content flagged (toxic=True, nsfw=False)
+2025-10-02 19:46:04 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 19:51:10 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:51:10 - observability - INFO - log_event:124 - 📊 Event: integration_test
+2025-10-02 19:51:12 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 42 tokens in 0.48s
+2025-10-02 19:51:12 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:51:29 - observability - INFO - log_document_processing:232 - 📄 Document: integration_test.txt - 1 chunks in 0.13s
+2025-10-02 19:51:29 - observability - INFO - log_event:124 - 📊 Event: document_processing
+2025-10-02 19:51:33 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.05s
+2025-10-02 19:51:33 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:52:51 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 310 tokens in 78.11s
+2025-10-02 19:52:51 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:53:01 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Hybrid RAG - 2 results in 0.05s
+2025-10-02 19:53:01 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:53:08 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 318 tokens in 7.08s
+2025-10-02 19:53:08 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 19:53:22 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.05s
+2025-10-02 19:53:22 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 19:53:46 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 19:53:46 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 19:58:44 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 19:58:44 - observability - INFO - log_event:124 - 📊 Event: integration_test
+2025-10-02 19:58:50 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 41 tokens in 4.22s
+2025-10-02 19:58:50 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 22:52:07 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 22:52:07 - observability - INFO - log_event:124 - 📊 Event: integration_test
+2025-10-02 22:52:10 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 41 tokens in 1.12s
+2025-10-02 22:52:10 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 22:52:24 - observability - INFO - log_document_processing:232 - 📄 Document: integration_test.txt - 1 chunks in 0.10s
+2025-10-02 22:52:24 - observability - INFO - log_event:124 - 📊 Event: document_processing
+2025-10-02 22:52:32 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.07s
+2025-10-02 22:52:32 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 22:52:32 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 310 tokens in 0.44s
+2025-10-02 22:52:32 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 22:52:39 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Hybrid RAG - 2 results in 0.05s
+2025-10-02 22:52:39 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 22:52:40 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 270 tokens in 0.42s
+2025-10-02 22:52:40 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 22:52:52 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 2 results in 0.03s
+2025-10-02 22:52:52 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 22:52:52 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.1-8b-instant - 308 tokens in 0.42s
+2025-10-02 22:52:52 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 22:52:54 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 22:52:54 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 23:32:45 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 23:34:33 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 23:37:11 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 23:40:24 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 23:41:02 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 4 results in 0.10s
+2025-10-02 23:41:02 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 23:49:24 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 23:50:18 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 23:50:18 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 23:50:18 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 4 results in 0.08s
+2025-10-02 23:50:18 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 23:50:19 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 23:50:19 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 23:53:49 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 23:54:23 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 23:54:23 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 23:54:23 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 4 results in 0.06s
+2025-10-02 23:54:23 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 23:54:24 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.3-70b-versatile - 505 tokens in 1.09s
+2025-10-02 23:54:24 - observability - INFO - log_event:124 - 📊 Event: llm_call
+2025-10-02 23:54:25 - observability - INFO - log_guardrails_check:213 - 🛡️  Guardrails: Content passed
+2025-10-02 23:54:25 - observability - INFO - log_event:124 - 📊 Event: guardrails_check
+2025-10-02 23:57:09 - observability - INFO - _initialize_langsmith:37 - ✅ Langsmith tracing initialized for project: multimodal-rag-chatbot
+2025-10-02 23:57:47 - observability - INFO - log_retrieval:184 - 🔍 Retrieval: Standard RAG - 4 results in 0.10s
+2025-10-02 23:57:47 - observability - INFO - log_event:124 - 📊 Event: retrieval
+2025-10-02 23:57:48 - observability - INFO - log_llm_call:158 - 🤖 LLM Call: Groq/llama-3.3-70b-versatile - 447 tokens in 0.92s
+2025-10-02 23:57:48 - observability - INFO - log_event:124 - 📊 Event: llm_call

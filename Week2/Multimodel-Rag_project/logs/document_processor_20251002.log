@@ -1,0 +1,159 @@
+2025-10-02 09:38:16 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 09:39:07 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 09:39:07 - document_processor - INFO - process_document:180 - 📄 Processing document: test_document.txt (302.0 B)
+2025-10-02 09:39:07 - document_processor - INFO - extract_from_txt:40 - ✅ Extracted 295 characters from TXT
+2025-10-02 09:39:07 - document_processor - INFO - process_document:202 - 📝 Created 1 chunks
+2025-10-02 09:39:07 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.10s
+2025-10-02 09:39:07 - document_processor - INFO - process_document:255 - ✅ Document processed successfully in 0.13s
+2025-10-02 09:39:07 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.01s
+2025-10-02 09:41:26 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 09:41:40 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 09:41:40 - document_processor - INFO - process_document:180 - 📄 Processing document: test_document.txt (302.0 B)
+2025-10-02 09:41:40 - document_processor - INFO - extract_from_txt:40 - ✅ Extracted 295 characters from TXT
+2025-10-02 09:41:40 - document_processor - INFO - process_document:202 - 📝 Created 1 chunks
+2025-10-02 09:41:40 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.08s
+2025-10-02 09:41:40 - document_processor - INFO - process_document:255 - ✅ Document processed successfully in 0.14s
+2025-10-02 09:41:40 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 09:47:43 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 09:47:51 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 09:47:52 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 09:47:55 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 09:47:55 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-02 09:47:55 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 09:47:56 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 10:54:38 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 10:54:45 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 10:54:46 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 10:54:49 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 10:54:49 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.05s
+2025-10-02 10:54:49 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 10:54:51 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 17:02:35 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 17:02:43 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 17:02:44 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 17:02:48 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 17:02:50 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.06s
+2025-10-02 17:02:50 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.01s
+2025-10-02 17:44:31 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 17:44:37 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 17:44:37 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 17:44:40 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 17:44:41 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 17:44:41 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.01s
+2025-10-02 18:25:09 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 18:25:16 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:20:31 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:20:39 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:20:40 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:20:44 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:20:44 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-02 19:20:44 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 19:22:00 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:22:07 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:22:08 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:22:13 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:22:13 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-02 19:22:13 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 19:24:30 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:24:40 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:24:42 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:24:47 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:24:47 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.05s
+2025-10-02 19:25:01 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:25:05 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:25:06 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.05s
+2025-10-02 19:25:06 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 19:25:40 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:25:44 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:25:45 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-02 19:25:45 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 19:35:15 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:35:24 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:35:25 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:35:29 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:35:29 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.06s
+2025-10-02 19:40:13 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:40:21 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:40:22 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:40:26 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:40:26 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.07s
+2025-10-02 19:40:32 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-02 19:44:08 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:44:12 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:44:13 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:44:17 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:44:20 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s
+2025-10-02 19:51:18 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:51:29 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:51:29 - document_processor - INFO - process_document:180 - 📄 Processing document: integration_test.txt (56.0 B)
+2025-10-02 19:51:29 - document_processor - INFO - extract_from_txt:40 - ✅ Extracted 56 characters from TXT
+2025-10-02 19:51:29 - document_processor - INFO - process_document:202 - 📝 Created 1 chunks
+2025-10-02 19:51:29 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.07s
+2025-10-02 19:51:29 - document_processor - INFO - process_document:255 - ✅ Document processed successfully in 0.13s
+2025-10-02 19:51:30 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:51:33 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:51:33 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s
+2025-10-02 19:52:52 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:52:57 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:52:57 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:53:01 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:53:01 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s
+2025-10-02 19:53:01 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.05s
+2025-10-02 19:53:10 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:53:14 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:53:14 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:53:18 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:53:18 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-02 19:53:18 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 19:53:22 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 19:53:22 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.05s
+2025-10-02 22:52:16 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 22:52:24 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 22:52:24 - document_processor - INFO - process_document:180 - 📄 Processing document: integration_test.txt (56.0 B)
+2025-10-02 22:52:24 - document_processor - INFO - extract_from_txt:40 - ✅ Extracted 56 characters from TXT
+2025-10-02 22:52:24 - document_processor - INFO - process_document:202 - 📝 Created 1 chunks
+2025-10-02 22:52:24 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.05s
+2025-10-02 22:52:24 - document_processor - INFO - process_document:255 - ✅ Document processed successfully in 0.10s
+2025-10-02 22:52:25 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 22:52:32 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 22:52:32 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-02 22:52:33 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 22:52:36 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 22:52:36 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 22:52:39 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 22:52:39 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s
+2025-10-02 22:52:39 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-02 22:52:41 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 22:52:44 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 22:52:45 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 22:52:48 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 22:52:48 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s
+2025-10-02 22:52:49 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 22:52:52 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 22:52:52 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s
+2025-10-02 23:32:45 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:32:55 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:34:33 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:34:42 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:37:11 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:37:19 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:40:24 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:40:33 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:40:45 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:40:49 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:41:02 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.06s
+2025-10-02 23:49:26 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:49:35 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:49:40 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:49:43 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:50:18 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-02 23:53:49 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:53:59 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:54:05 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:54:09 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:54:23 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s
+2025-10-02 23:57:09 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:57:18 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:57:25 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-02 23:57:29 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-02 23:57:47 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.06s

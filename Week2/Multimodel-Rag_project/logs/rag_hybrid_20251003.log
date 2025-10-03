@@ -1,0 +1,7 @@
+2025-10-03 00:01:36 - rag_hybrid - INFO - __init__:56 - ✅ Hybrid RAG initialized (semantic: 0.5, keyword: 0.5)
+2025-10-03 00:01:39 - rag_hybrid - INFO - build_bm25_index:65 - 🔨 Building BM25 keyword index...
+2025-10-03 00:01:39 - rag_hybrid - INFO - build_bm25_index:83 - ✅ BM25 index built with 8 documents in 0.00s
+2025-10-03 00:01:39 - rag_hybrid - INFO - query:320 - 🔍 Processing hybrid query: What is this about?
+2025-10-03 00:01:39 - rag_hybrid - INFO - retrieve:247 - 🔍 Semantic: 4, BM25: 4 results
+2025-10-03 00:01:39 - rag_hybrid - INFO - retrieve:270 - ✅ Hybrid retrieval: 2 documents in 0.05s
+2025-10-03 00:01:50 - rag_hybrid - INFO - query:371 - ✅ Hybrid query completed in 10.30s

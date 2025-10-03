@@ -1,0 +1,3 @@
+2025-10-03 00:02:20 - memory_manager - INFO - __init__:40 - Memory initialized for session 59d321b2 (max: 5 messages)
+2025-10-03 00:05:36 - memory_manager - INFO - __init__:40 - Memory initialized for session 0bb075fd (max: 10 messages)
+2025-10-03 00:05:36 - memory_manager - INFO - __init__:241 - RAG with memory initialized

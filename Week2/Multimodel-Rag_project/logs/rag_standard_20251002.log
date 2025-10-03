@@ -1,0 +1,70 @@
+2025-10-02 09:47:55 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 09:47:55 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.07s
+2025-10-02 09:47:55 - rag_standard - INFO - query:219 - 🔍 Processing query: What is this document about?
+2025-10-02 09:47:55 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.02s
+2025-10-02 09:47:56 - rag_standard - INFO - query:264 - ✅ Query completed in 1.02s
+2025-10-02 09:47:56 - rag_standard - INFO - query:219 - 🔍 Processing query: Summarize the main points
+2025-10-02 09:47:56 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.02s
+2025-10-02 09:47:57 - rag_standard - INFO - query:264 - ✅ Query completed in 0.60s
+2025-10-02 10:54:49 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 10:54:49 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.08s
+2025-10-02 10:54:49 - rag_standard - INFO - query:219 - 🔍 Processing query: What is this document about?
+2025-10-02 10:54:49 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.03s
+2025-10-02 10:54:51 - rag_standard - INFO - query:264 - ✅ Query completed in 1.61s
+2025-10-02 10:54:51 - rag_standard - INFO - query:219 - 🔍 Processing query: Summarize the main points
+2025-10-02 10:54:51 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.02s
+2025-10-02 10:54:51 - rag_standard - INFO - query:264 - ✅ Query completed in 0.45s
+2025-10-02 19:24:47 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 19:24:47 - rag_standard - INFO - query:219 - 🔍 Processing query: What is this document about?
+2025-10-02 19:24:47 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.07s
+2025-10-02 19:25:00 - rag_standard - INFO - query:264 - ✅ Query completed in 13.01s
+2025-10-02 19:35:29 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 19:35:29 - rag_standard - INFO - query:219 - 🔍 Processing query: What is the capital of France?
+2025-10-02 19:35:29 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.08s
+2025-10-02 19:35:30 - rag_standard - INFO - query:264 - ✅ Query completed in 0.75s
+2025-10-02 19:40:26 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 19:40:26 - rag_standard - INFO - query:219 - 🔍 Processing query: What is this document about?
+2025-10-02 19:40:26 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.09s
+2025-10-02 19:40:32 - rag_standard - INFO - query:264 - ✅ Query completed in 5.80s
+2025-10-02 19:40:32 - rag_standard - INFO - query:219 - 🔍 Processing query: Can you provide more details?
+2025-10-02 19:40:32 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.03s
+2025-10-02 19:40:33 - rag_standard - INFO - query:264 - ✅ Query completed in 0.96s
+2025-10-02 19:44:17 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 19:44:20 - rag_standard - INFO - query:219 - 🔍 Processing query: What is this document about?
+2025-10-02 19:44:20 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.04s
+2025-10-02 19:46:04 - rag_standard - INFO - query:264 - ✅ Query completed in 104.10s
+2025-10-02 19:51:33 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 19:51:33 - rag_standard - INFO - query:219 - 🔍 Processing query: What is this about?
+2025-10-02 19:51:33 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.05s
+2025-10-02 19:52:51 - rag_standard - INFO - query:264 - ✅ Query completed in 78.16s
+2025-10-02 19:53:22 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 19:53:22 - rag_standard - INFO - query:219 - 🔍 Processing query: Test query
+2025-10-02 19:53:22 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.05s
+2025-10-02 19:53:44 - rag_standard - ERROR - generate_answer:192 - ❌ Answer generation failed: Request timed out.
+2025-10-02 19:53:44 - rag_standard - INFO - query:264 - ✅ Query completed in 22.14s
+2025-10-02 22:52:32 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 22:52:32 - rag_standard - INFO - query:219 - 🔍 Processing query: What is this about?
+2025-10-02 22:52:32 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.07s
+2025-10-02 22:52:32 - rag_standard - INFO - query:264 - ✅ Query completed in 0.51s
+2025-10-02 22:52:52 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 22:52:52 - rag_standard - INFO - query:219 - 🔍 Processing query: Test query
+2025-10-02 22:52:52 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.03s
+2025-10-02 22:52:52 - rag_standard - INFO - query:264 - ✅ Query completed in 0.45s
+2025-10-02 23:40:49 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 23:41:02 - rag_standard - INFO - query:219 - 🔍 Processing query: tell me about ai 
+2025-10-02 23:41:02 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 4 documents in 0.10s
+2025-10-02 23:41:03 - rag_standard - ERROR - generate_answer:192 - ❌ Answer generation failed: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-02 23:41:03 - rag_standard - INFO - query:264 - ✅ Query completed in 0.75s
+2025-10-02 23:49:43 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 23:50:18 - rag_standard - INFO - query:219 - 🔍 Processing query: hii
+2025-10-02 23:50:18 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 4 documents in 0.08s
+2025-10-02 23:50:18 - rag_standard - ERROR - generate_answer:192 - ❌ Answer generation failed: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-02 23:50:18 - rag_standard - INFO - query:264 - ✅ Query completed in 0.62s
+2025-10-02 23:54:09 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 23:54:23 - rag_standard - INFO - query:219 - 🔍 Processing query: tell me about ai 
+2025-10-02 23:54:23 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 4 documents in 0.06s
+2025-10-02 23:54:24 - rag_standard - INFO - query:264 - ✅ Query completed in 1.16s
+2025-10-02 23:57:29 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-02 23:57:47 - rag_standard - INFO - query:219 - 🔍 Processing query: tell me about ai
+2025-10-02 23:57:47 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 4 documents in 0.10s
+2025-10-02 23:57:48 - rag_standard - INFO - query:264 - ✅ Query completed in 1.02s

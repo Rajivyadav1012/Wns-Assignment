@@ -1,0 +1,1 @@
+This is an integration test document for the RAG system.

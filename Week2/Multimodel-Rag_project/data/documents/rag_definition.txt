@@ -1,0 +1,10 @@
+Retrieval-Augmented Generation (RAG) is an AI technique that combines external knowledge retrieval with a generative model to improve accuracy.
+
+Key Points about RAG:
+1. Retrieval: RAG retrieves relevant documents, passages, or knowledge from an external source such as a vector database or search engine.
+2. Augmentation: The retrieved content is provided as context to the generative model.
+3. Generation: The generative model (e.g., LLM) uses both the user query and the retrieved knowledge to generate more accurate and grounded responses.
+4. Benefits: Improves factual accuracy, reduces hallucinations, and allows domain-specific knowledge integration.
+
+Example:
+If you ask a RAG system, "What is Retrieval-Augmented Generation?", the system first searches its document store for definitions of RAG, then uses that content to generate a clear and accurate answer.

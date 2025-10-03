@@ -1,0 +1,40 @@
+2025-10-03 00:00:38 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:00:46 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:00:46 - document_processor - INFO - process_document:180 - 📄 Processing document: integration_test.txt (56.0 B)
+2025-10-03 00:00:46 - document_processor - INFO - extract_from_txt:40 - ✅ Extracted 56 characters from TXT
+2025-10-03 00:00:46 - document_processor - INFO - process_document:202 - 📝 Created 1 chunks
+2025-10-03 00:00:46 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.06s
+2025-10-03 00:00:46 - document_processor - INFO - process_document:255 - ✅ Document processed successfully in 0.11s
+2025-10-03 00:00:46 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:00:51 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:00:51 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-03 00:01:32 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:01:36 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:01:36 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:01:39 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:01:39 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s
+2025-10-03 00:01:39 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.05s
+2025-10-03 00:01:51 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:01:54 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:01:55 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:01:59 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:01:59 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-03 00:01:59 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:02:03 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:02:03 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.02s
+2025-10-03 00:05:11 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:05:21 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:05:25 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:05:31 - document_processor - INFO - _load_model:112 - 📥 Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-10-03 00:05:32 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:05:36 - document_processor - INFO - _load_model:114 - ✅ Embedding model loaded (dimension: 384)
+2025-10-03 00:08:38 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.06s
+2025-10-03 00:20:00 - document_processor - INFO - process_document:180 - 📄 Processing document: rag_definition.txt (868.0 B)
+2025-10-03 00:20:00 - document_processor - INFO - extract_from_txt:40 - ✅ Extracted 868 characters from TXT
+2025-10-03 00:20:00 - document_processor - INFO - process_document:202 - 📝 Created 1 chunks
+2025-10-03 00:20:00 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.06s
+2025-10-03 00:20:00 - document_processor - INFO - process_document:255 - ✅ Document processed successfully in 0.12s
+2025-10-03 00:20:22 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.04s
+2025-10-03 00:22:31 - document_processor - INFO - delete_document:335 - 🗑️ Deleted document c50820f93d07859022367cf483eabf55
+2025-10-03 00:22:35 - document_processor - INFO - delete_document:335 - 🗑️ Deleted document 980fbf5d17c9ef3f7fbce77fb45b75a4
+2025-10-03 00:24:41 - document_processor - INFO - generate_embeddings:134 - ✅ Generated 1 embeddings in 0.03s

@@ -1,0 +1,4 @@
+2025-10-02 00:52:52 - test_logger - INFO - test_logger:96 - This is an INFO message
+2025-10-02 00:52:52 - test_logger - WARNING - test_logger:97 - This is a WARNING message
+2025-10-02 00:52:52 - test_logger - ERROR - test_logger:98 - This is an ERROR message
+2025-10-02 00:52:52 - test_logger - CRITICAL - test_logger:99 - This is a CRITICAL message

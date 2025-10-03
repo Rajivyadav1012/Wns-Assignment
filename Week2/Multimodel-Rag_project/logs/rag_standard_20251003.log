@@ -1,0 +1,20 @@
+2025-10-03 00:00:51 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-03 00:00:51 - rag_standard - INFO - query:219 - 🔍 Processing query: What is this about?
+2025-10-03 00:00:51 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.07s
+2025-10-03 00:01:32 - rag_standard - INFO - query:264 - ✅ Query completed in 40.91s
+2025-10-03 00:02:03 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-03 00:02:03 - rag_standard - INFO - query:219 - 🔍 Processing query: Test query
+2025-10-03 00:02:03 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 2 documents in 0.03s
+2025-10-03 00:02:20 - rag_standard - INFO - query:264 - ✅ Query completed in 17.69s
+2025-10-03 00:05:32 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-03 00:05:36 - rag_standard - INFO - __init__:46 - ✅ Standard RAG initialized with groq
+2025-10-03 00:08:37 - rag_standard - INFO - query:219 - 🔍 Processing query: What is Retrieval-Augmented Generation (RAG)?
+
+2025-10-03 00:08:38 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 5 documents in 0.08s
+2025-10-03 00:08:39 - rag_standard - INFO - query:264 - ✅ Query completed in 1.11s
+2025-10-03 00:20:22 - rag_standard - INFO - query:219 - 🔍 Processing query: What is Retrieval-Augmented Generation (RAG)?
+2025-10-03 00:20:22 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 5 documents in 0.04s
+2025-10-03 00:20:23 - rag_standard - INFO - query:264 - ✅ Query completed in 1.07s
+2025-10-03 00:24:41 - rag_standard - INFO - query:219 - 🔍 Processing query: tell me about ai 
+2025-10-03 00:24:41 - rag_standard - INFO - retrieve:99 - 🔍 Retrieved 5 documents in 0.04s
+2025-10-03 00:24:42 - rag_standard - INFO - query:264 - ✅ Query completed in 1.03s

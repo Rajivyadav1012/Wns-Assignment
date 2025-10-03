@@ -1,0 +1,11 @@
+2025-10-02 19:24:47 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Standard RAG
+2025-10-02 19:25:05 - rag_selector - INFO - _build_bm25_index:121 - Building BM25 index...
+2025-10-02 19:25:06 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Hybrid RAG
+2025-10-02 19:25:45 - rag_selector - INFO - _build_knowledge_graph:106 - Building knowledge graph...
+2025-10-02 19:25:45 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Knowledge Graph RAG
+2025-10-02 19:53:22 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Standard RAG
+2025-10-02 22:52:52 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Standard RAG
+2025-10-02 23:40:49 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Standard RAG
+2025-10-02 23:49:43 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Standard RAG
+2025-10-02 23:54:09 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Standard RAG
+2025-10-02 23:57:29 - rag_selector - INFO - __init__:58 - RAG Selector initialized with: Standard RAG
