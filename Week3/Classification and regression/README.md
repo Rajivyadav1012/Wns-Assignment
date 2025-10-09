@@ -44,6 +44,8 @@ Logistic Regression| Random Forest | Xgboost |Gradient Boosting
 |F1-Score |0.9765
 | ROC-AUC | 0.9991|
 
+![Loan_approval_final_deployment](https://github.com/user-attachments/assets/9a11a23a-c400-4fb2-b106-733947462b5a)
+
 ---
 
 ### Model Explainability - Classification
@@ -585,3 +587,4 @@ Educational project for ML explainability demonstration.
 ---
 
 ## ⭐ Star this repo if you found it helpful!
+
