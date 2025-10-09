@@ -28,7 +28,7 @@ Logistic Regression | Decision Tree | Random Forest | Gradient Boosting | SVM
 ### Results
 
 #### Model Performance
-![Model Comparison](./model_comparison.png)
+
 
 **Best Model: [Model Name]**
 - Accuracy: X.XXXX
@@ -310,5 +310,6 @@ Week3/
 ---
 
 **Last Updated:** October 2025 | **Version:** 1.0.0
+
 
 ⭐ **Star this repo if you found it helpful!**
