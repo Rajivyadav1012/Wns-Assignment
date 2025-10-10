@@ -434,7 +434,7 @@ Adjusts decision thresholds per group to equalize approval rates.
 
 All metrics now exceed 0.80 fairness threshold! ✅
 
-![Uploading image.png…]()
+<img width="799" height="409" alt="image" src="https://github.com/user-attachments/assets/a0da0a6f-dd33-4ee9-ba7c-b0ab98da6b96" />
 
 ---
 
@@ -539,6 +539,9 @@ All metrics now exceed 0.80 fairness threshold! ✅
 - Height, Weight, Known Allergies
 - Family Cancer History
 
+<img width="886" height="469" alt="image" src="https://github.com/user-attachments/assets/5a5f9115-5002-4b38-ad5d-8d23d6510556" />
+
+
 ---
 
 ### Hyperparameter Tuning & Model Comparison
@@ -556,15 +559,14 @@ All metrics now exceed 0.80 fairness threshold! ✅
 - Optimized for RMSE minimization
 - Tested 80+ parameter combinations per model
 
-![Hyperparameter Tuning](./regression_hyperparameter_tuning.png)
+
+<img width="872" height="431" alt="image" src="https://github.com/user-attachments/assets/cb9765bf-8dd8-40f4-ab6c-74b8ab429298" />
 
 *GridSearchCV convergence and parameter optimization process*
 
 ---
 
 #### Model Performance: Before vs After Tuning
-
-![Model Comparison Before After](./regression_model_comparison_before_after.png)
 
 *RMSE reduction through systematic hyperparameter optimization*
 
@@ -592,7 +594,6 @@ All metrics now exceed 0.80 fairness threshold! ✅
 }
 ```
 
-![Medical Model Comparison](./medical_model_comparison.png)
 
 *Final RMSE, MAE, and R² comparison across all regression models*
 
@@ -615,6 +616,9 @@ All metrics now exceed 0.80 fairness threshold! ✅
 - ✅ MAPE < 5% (industry standard)
 - ✅ Stable cross-validation performance
 
+<img width="786" height="495" alt="image" src="https://github.com/user-attachments/assets/db1dfd2e-f4be-4dc1-8749-7d85adb93b56" />
+
+
 ---
 
 ### Model Explainability - Regression
@@ -629,7 +633,7 @@ All metrics now exceed 0.80 fairness threshold! ✅
 
 Identifies primary drivers of premium pricing.
 
-![Feature Importance](./regression_feature_importance.png)
+<img width="878" height="531" alt="image" src="https://github.com/user-attachments/assets/fdb24b60-13cb-43e4-8902-fecd58d59d46" />
 
 *Top 10 features ranked by predictive importance*
 
@@ -655,22 +659,7 @@ Identifies primary drivers of premium pricing.
 **2. Partial Dependence Plots (PDP)**
 
 Shows individual feature effects on premium.
-
-![PDP - Age](./regression_pdp_age.png)
-
-*Premium increases non-linearly with age, accelerating after 50*
-
-![PDP - Surgeries](./regression_pdp_surgeries.png)
-
-*Each surgery adds approximately $3,500 to premium*
-
-![PDP - Chronic Diseases](./regression_pdp_chronic.png)
-
-*Chronic diseases add ~$6,200 to base premium*
-
-![PDP - Weight](./regression_pdp_weight.png)
-
-*Weight effect is non-linear with thresholds at 70kg and 90kg*
+<img width="613" height="497" alt="image" src="https://github.com/user-attachments/assets/bde6f32f-fa02-463b-9b2b-8fc481049806" />
 
 **Key Insights:**
 
@@ -697,7 +686,8 @@ Shows individual feature effects on premium.
 
 SHAP values show feature importance AND directional impact.
 
-![SHAP Summary Plot](./regression_shap_summary.png)
+![Uploading image.png…]()
+
 
 *SHAP summary: Feature importance with directional effects (red=high, blue=low)*
 
@@ -715,7 +705,6 @@ SHAP values show feature importance AND directional impact.
 
 ---
 
-![SHAP Dependence - Age](./regression_shap_dependence_age.png)
 
 *SHAP dependence plot: Exact premium impact per age value*
 
@@ -809,3 +798,4 @@ Final Predicted Premium:                  $31,450
 **Customer-Friendly Explanation:**
 
 > *"Your premium of $31,450 is $7,
+
